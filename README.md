@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
 - 📫 How to reach me **sujitshrestha0004@gmail.com**
-<img align="right" alt="coding" width="400" src="<iframe src="gif.gif" alt="coding gif" width="400">
+<img align="right" alt="coding" width="400" src="<iframe src="https://github.com/Sujit-shrestha/Sujit-shrestha/blob/main/gif.gif?raw=true" alt="coding gif" width="400">
 
 <h3 align="left">Connect with me:</h3>
 

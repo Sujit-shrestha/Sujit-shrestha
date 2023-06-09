@@ -1,12 +1,15 @@
 <h1 align="center">I'm Sujit Shrestha.</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
 
 - 📫 How to reach me **sujitshrestha0004@gmail.com**
-<img align="right" alt="coding" width="400" src="<iframe src="https://github.com/Sujit-shrestha/Sujit-shrestha/blob/main/gif.gif?raw=true" alt="coding gif" width="400">
+- Currently busy in:
 
+![logo](https://github.com/Sujit-shrestha/Sujit-shrestha/blob/main/gif.gif)
+<br>
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://fb.com/mrsujiit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrsujiit" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mrsujiit" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="mrsujiit" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
